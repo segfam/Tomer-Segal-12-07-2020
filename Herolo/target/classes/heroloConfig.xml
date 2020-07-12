@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <webDriverName>webdriver.chrome.driver</webDriverName>
+    <chromePath>/Users/tomersegal/ws/automation/chrome/chrome83/chromedriver</chromePath>
+    <url>https://automation.herolo.co.il/</url>
+    <name>test10</name>
+    <email>test10@mailinator.com</email>
+    <phoneNumber>0509988776</phoneNumber>
+    <talkToUsName>Me</talkToUsName>
+    <talkToUsCompany>BBB</talkToUsCompany>
+    <talkToUsEmail>bbb@mailinator.com</talkToUsEmail>
+    <talkToUsPhoneNumber>0549998887</talkToUsPhoneNumber>
+</config>
