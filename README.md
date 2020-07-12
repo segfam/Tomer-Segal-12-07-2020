@@ -5,3 +5,4 @@ Test Scenario :
 2. Submit your pesonal details
 3. Validate "Whatsapp" functionality
 4. Validate "contact us" functionality
+5 - 7. Validate error text in personal details - (validate 3 errors : name, email and phone number)
